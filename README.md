@@ -13,10 +13,15 @@
 ## Array
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
