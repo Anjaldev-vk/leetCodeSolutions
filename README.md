@@ -16,6 +16,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
 ## String
 |  |
@@ -26,8 +27,13 @@
 | ------- |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
+| [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
