@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
