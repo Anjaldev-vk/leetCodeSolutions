@@ -7,6 +7,7 @@
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -41,4 +43,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
