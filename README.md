@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
