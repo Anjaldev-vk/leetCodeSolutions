@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
