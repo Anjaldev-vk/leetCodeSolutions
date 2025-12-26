@@ -1,9 +1,9 @@
 class Solution(object):
     def firstPalindrome(self, words):
-        for w in words:
-            if w == w[::-1]:
-                return w
-        return ""
+        for word in words:
+            if word == word[::-1]:
+                return word
+        return ("")
 
                 
 
