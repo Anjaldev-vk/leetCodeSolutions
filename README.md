@@ -30,6 +30,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
 |  |
