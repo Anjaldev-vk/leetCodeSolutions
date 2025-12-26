@@ -20,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
