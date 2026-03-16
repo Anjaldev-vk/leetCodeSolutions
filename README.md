@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
