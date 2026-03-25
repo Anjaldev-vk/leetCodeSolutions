@@ -30,6 +30,7 @@
 | [1051-height-checker](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -45,6 +46,7 @@
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -52,6 +54,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [3311-ant-on-the-boundary](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
