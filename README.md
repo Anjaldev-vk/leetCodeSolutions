@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1610-xor-operation-in-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -29,6 +30,7 @@
 | [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 | [1051-height-checker](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
@@ -113,4 +115,8 @@
 | [1051-height-checker](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
