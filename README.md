@@ -44,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -103,6 +104,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
 ## Greedy
 |  |
