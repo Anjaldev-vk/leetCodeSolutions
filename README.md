@@ -22,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
