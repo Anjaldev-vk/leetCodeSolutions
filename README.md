@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
+| [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1610-xor-operation-in-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1610-xor-operation-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -25,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
@@ -130,4 +132,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Design
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
