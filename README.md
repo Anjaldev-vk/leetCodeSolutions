@@ -51,6 +51,7 @@
 | [0020-valid-parentheses](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -87,6 +88,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +122,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
