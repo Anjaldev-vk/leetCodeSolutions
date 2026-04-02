@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0682-baseball-game) |
@@ -107,6 +108,7 @@
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -147,4 +149,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
