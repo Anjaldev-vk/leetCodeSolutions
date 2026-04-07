@@ -36,6 +36,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1470-shuffle-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2048-build-array-from-permutation](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2048-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
