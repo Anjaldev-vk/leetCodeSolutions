@@ -22,6 +22,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0283-move-zeroes) |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0506-relative-ranks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
