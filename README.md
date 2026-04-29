@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0258-add-digits) |
 | [0384-shuffle-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0384-shuffle-an-array) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0136-single-number) |
