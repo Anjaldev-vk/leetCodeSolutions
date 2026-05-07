@@ -58,6 +58,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -96,6 +97,7 @@
 | [0001-two-sum](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Anjaldev-vk/leetCodeSolutions/tree/master/0506-relative-ranks) |
